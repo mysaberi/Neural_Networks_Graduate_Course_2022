@@ -1,1 +1,3 @@
 
+Computer vision is a field of AI that enables computers to derive meaningful information from images, videos and other visual inputs, and take actions or make recommendations based on that information. Computer vision tries to work as same as human vision, So, we expect such systems to know how to tell objects apart, how far away they are, whether they are moving and whether there is something wrong in an image. In this project, we'll focus on the detection task. </br>
+In the first part of the project, we'll make a Convolutional Neural Network that can tell apart Persian digits. In the second part, we'll make a CNN that can detect the clothes in the MNIST dataset. Further, we will compare our selected model's performance with the RESNET-50 architecture. 
